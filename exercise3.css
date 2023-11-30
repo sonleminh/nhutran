@@ -1,0 +1,38 @@
+* { 
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-family: 'Mulish', sans-serif;
+}
+
+.app {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 100vh;
+    background: white;
+    color: #fff;
+}
+
+#form {
+    width: 700px;
+    height: 500px;
+    background: url('https://img.freepik.com/free-vector/black-carbon-fiber-texture-pattern-background_1017-33436.jpg?size=626&ext=jpg&ga=GA1.1.1826414947.1698969600&semt=ais');
+    background-repeat: no-repeat;    
+    background-size: contain;    
+}
+
+.heading {
+    display: flex;
+}
+
+.call-icon {
+    width: 100px;
+    height: 100px;
+    background: #c09e09;
+
+}
